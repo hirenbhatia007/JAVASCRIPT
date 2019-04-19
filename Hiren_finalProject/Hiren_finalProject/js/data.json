@@ -1,0 +1,27 @@
+
+{
+  "1": {
+    "img": "img/col1.gif",
+    "name": "Pandals charms"
+  },
+  "2": {
+    "img": "img/ring.gif",
+    "name": "Rings"
+  },
+  "3": {
+    "img": "img/brace;ets.gif",
+    "name": "Bracelate"
+  },
+  "4": {
+    "img": "img/neckless.gif",
+    "name": "Neckless"
+  },
+  "5": {
+    "img": "img/earrings.gif",
+    "name": "Earrings"
+  },
+  "6": {
+    "img": "img/watches.gif",
+    "name": "Watches"
+  }
+}
